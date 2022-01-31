@@ -1,7 +1,7 @@
 # RBLXHacks
 
 ## how to use:
-download krnl
+download [krnl](https://cb.run/G4Zf) if you already have it [get a key](https://cb.run/zKVn)
 add this `loadstring(game:HttpGet(""))()` 
 then add this `https://raw.githubusercontent.com/AvaneeshG/RBLXHacks/main/script(number).lua` 
 replace `(number)` with with any number 1-20 the higher the number the more advanced the hack is 
